@@ -1,0 +1,5 @@
+Vector
+Lista   (klasa Vector)
+Propagandowy#100x100#red#10
+Informacyjny#99x99#Blue#9
+Reklamowy#98x98#Grey#8

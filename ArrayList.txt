@@ -1,0 +1,5 @@
+ArrayList
+Lista   (klasa ArrayList)
+Propagandowy#97x97#Red#7
+Informacyjny#96x96#Blue#6
+Reklamowy#95x95#Black#5

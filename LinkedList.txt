@@ -1,0 +1,5 @@
+LinkedList
+Lista   (klasa LinkedList)
+Propagandowy#94x94#red#4
+Informacyjny#93x93#green#3
+Reklamowy#92x92#pink#2

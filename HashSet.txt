@@ -1,0 +1,5 @@
+HashSet
+Zbiór   (klasa HashSet)
+Propagandowy#91x91#white#1
+Reklamowy#99x99#violet#9
+Propagandowy#100x100#red#10

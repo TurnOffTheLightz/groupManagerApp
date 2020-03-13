@@ -1,0 +1,5 @@
+TreeSet
+Zbiór   (klasa TreeSet)
+Propagandowy#98x98#red#8
+Reklamowy#2x22#whiten#22
+Propagandowy#3x44#red#2424
